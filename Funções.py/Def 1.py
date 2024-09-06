@@ -2,7 +2,6 @@ import os
 
 os.system("cls || clear ")
 
-#Função
 def calcular_media (numero_1 , numero_2):
     soma = numero_1 + numero_2
     resultado = soma /2    
