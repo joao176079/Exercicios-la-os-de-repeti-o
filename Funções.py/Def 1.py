@@ -1,6 +1,5 @@
-import os 
-
-os.system("cls || clear ")
+import os
+os.system("cls || clear")
 
 def calcular_media (numero_1 , numero_2):
     soma = numero_1 + numero_2

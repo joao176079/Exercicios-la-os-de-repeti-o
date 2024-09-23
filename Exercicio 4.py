@@ -4,7 +4,7 @@ O programa deve permitir que o usuário insira gastos diários até que o total 
 O programa deve exibir o total gasto e o valor  excedente.
 orcamento = float(input("Digite o seu orçamento inicial: "))
 '''
-orcamento = int (input ("Digite o seu orçamento : "))
+orcamento = float (input ("Digite o seu orçamento : "))
 total_gasto = 0.0
 valor_excedente = 0
 

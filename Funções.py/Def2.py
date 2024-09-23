@@ -8,10 +8,10 @@ def soma (numero1 ,  numero2 ):
     return valor 
 
 numero1 = int (input ("Digite o seu primeiro valor : "))
-time.sleep(2)
+
 numero2 = int (input ("Digite o seu segundo valor : "))
 
 valor = soma (numero1 , numero2)
+time.sleep(2)
 
-
-print (valor)
+print (f"O seu valor foi : {valor}")
